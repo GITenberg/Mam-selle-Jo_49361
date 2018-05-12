@@ -1,9 +1,13 @@
 _repo: Mam-selle-Jo_49361
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Ward, E. F.
     gutenberg_agent_id: '45287'
     url: http://www.gutenberg.org/2009/agents/45287
+covers:
+- cover_type: archival
+  image_path: 49361-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Comstock, Harriet T. (Harriet Theresa)
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '5719'
     url: http://www.gutenberg.org/2009/agents/5719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49361#Mam-selle-Jo
 gutenberg_issued: '2015-07-04'
 gutenberg_type: Text
 identifiers:
